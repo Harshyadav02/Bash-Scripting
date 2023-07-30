@@ -1,0 +1,8 @@
+Bash Read File
+There are many ways that we can use to read a file in Bash Shell Scripting. Some of the important methods are given below (Assuming, name of the file that we are reading is 'read_file.txt'):
+
+Reading File Using 'cat fileName'
+We can use the following syntax to take a print of the contents of the file to a terminal.Here, the filename is used as an argument value. The output will provide the content of 'read_file.txt' with no extra spaces between words.
+
+Reading file by omitting Backslash Escape
+If we want to read each line of a file line by line by omitting backslash-escape then we are required to use the '-r' option with a 'read' command in 'while' loop, e.g.:

@@ -9,7 +9,7 @@ This repo conatin all the topic which i have learned in bash scripting.
 - [Variables](https://github.com/Harshyadav02/Bash-Scripting/tree/master/02_Variables)
 - [Input in bash](https://github.com/Harshyadav02/Bash-Scripting/tree/master/03_Inputs)
 - [Operators](https://github.com/Harshyadav02/Bash-Scripting/tree/master/04_ArithmeticOperations)
-- [Conditional] statments(https://github.com/Harshyadav02/Bash-Scripting/tree/master/05_ConditionalStatment)
+- [Conditional statments](https://github.com/Harshyadav02/Bash-Scripting/tree/master/05_ConditionalStatment)
 - [Loops](https://github.com/Harshyadav02/Bash-Scripting/tree/master/06_Loops)
 - [String](https://github.com/Harshyadav02/Bash-Scripting/tree/master/07_String) 
 - [Functions](https://github.com/Harshyadav02/Bash-Scripting/tree/master/08_Function)

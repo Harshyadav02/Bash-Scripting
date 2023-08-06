@@ -21,7 +21,7 @@ All the topic have program in bash
 
 ## To run program 
 
-firstly change the mode to execution mode ny chmod +x <filename.sh> 
+First change the mode to execution mode by chmod +x <filename.sh> 
 
 Now to run the program use    ./<filename.sh> 
 

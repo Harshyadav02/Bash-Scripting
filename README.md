@@ -19,11 +19,21 @@ This repo conatin all the topic which i have learned in bash scripting.
 
 All the topic have program in bash 
 
-## To run program 
+## How to use this repo .
+
+use  `git clone https://github.com/Harshyadav02/Bash-Scripting/` to your desired directory.
+
+
+## To run program.
+
+
+Open Your Termibal. `ctrl+alt+t`
+
+Navigate to the dir where you have cloned the folder by   ` cd `.
 
 Change the mode to execution mode. 
 
 `chmod +x <filename.sh>` 
 
-Now to run the program use`./<filename.sh>` 
+Now to run the program use  `./<filename.sh>` 
 

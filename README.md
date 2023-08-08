@@ -27,7 +27,7 @@ use  `git clone https://github.com/Harshyadav02/Bash-Scripting/` to your desired
 ## To run program.
 
 
-Open Your Termibal. `ctrl+alt+t`
+Open Your Terminal. `ctrl+alt+t`
 
 Navigate to the dir where you have cloned the folder by   ` cd `.
 
@@ -35,5 +35,5 @@ Change the mode to execution mode.
 
 `chmod +x <filename.sh>` 
 
-Now to run the program use  `./<filename.sh>` 
+ To run the program use  `./<filename.sh>` 
 
